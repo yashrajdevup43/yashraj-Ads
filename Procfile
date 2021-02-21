@@ -1,1 +1,1 @@
-worker: node yashraj.js
+worker: node indexyashraj.js
